@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+}
+#ha1{
+width: 100px;
+text-align: center;
+}
+.back:hover{
+background-color: white;
+padding: 18px;
+}
+.btn:hover{
+background-color: blue;
+}
+.banner-btn{
+	width: 200px;
+	position: absolute;
+	left: 30px;
+	padding: 10px;
+
+}
+.banner-btn:hover{
+	box-shadow: white;
+}
+.banner-section{
+	position: relative;
+
+}
+#banner-btn1{
+	top: 20%;
+}
+#banner-btn2{
+	top: 40%;
+}
+
+
+#banner-btn3{
+	top: 60%;
+}
+.card-title{
+	height: 50px;
+}
+#para{
+text-align: center;
+}
+
+.cont{
+	margin: 0;
+	position: relative;
+}
+.subdiv{
+	position: absolute;
+	top: 400px;
+	left: 500px;
+}
+button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+	text-decoration: none;
+	padding: 16px 32px;
+}
+.button1:hover {
+    background-color: #008CBA;
+    color: white;
+}
+#in1{
+	width: 15%;
+}
